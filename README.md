@@ -60,3 +60,8 @@ o 通过可视化结果分析模型的预测能力，特别是类别的预测结
 • 分类模型的选择应该基于数据集的特点，尝试使用不同的分类算法，比较其性能。
 • 可视化不仅能帮助你评估模型的效果，还能帮助你更好地理解数据与目标变量之间
 的关系。
+
+# 参考文献
+https://archive.ics.uci.edu/dataset/1/abalone
+https://github.com/search?q=abalone&type=repositories
+https://blog.csdn.net/iqdutao/article/details/109402570
